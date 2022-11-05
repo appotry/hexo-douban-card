@@ -7,6 +7,8 @@
 [![GitHub license](https://img.shields.io/github/license/TankNee/hexo-douban-card.svg)](https://github.com/TankNee/hexo-douban-card/blob/master/LICENSE)
 [![NPM](https://nodei.co/npm/hexo-douban-card.png)](https://nodei.co/npm/hexo-douban-card/)
 
+> 个人定制修改版。CSS 需要用户自己插入！ 其它和原版一样，方便性能优化！
+
 ### 用法
 
 首先请安装插件

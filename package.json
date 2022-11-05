@@ -1,6 +1,6 @@
 {
-    "name": "hexo-douban-card",
-    "version": "1.4.0",
+    "name": "hexo-douban-card-new",
+    "version": "1.4.2",
     "description": "Generate douban card for hexo with customized renderer.",
     "main": "index.js",
     "scripts": {},
@@ -10,7 +10,7 @@
         "blog"
     ],
     "author": {
-        "name": "TankNee",
+        "name": "TankNee, appotry",
         "email": "nee@tanknee.cn",
         "url": "https://www.tanknee.cn"
     },
@@ -23,7 +23,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/TankNee/hexo-douban-card.git"
+        "url": "https://github.com/appotry/hexo-douban-card.git"
     },
     "engines": {
         "hexo": ">= 3.0.0"
